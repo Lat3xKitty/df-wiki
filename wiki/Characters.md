@@ -158,3 +158,33 @@
 </span>
 
 ### S
+<span data-letter="S" data-story="VelzeaOrigin">
+  <a href="https://lat3xkitty.com/df-wiki/char_Shiori">Shiori</a>
+</span>
+
+<span data-letter="S" data-story="MTF">
+  <a href="https://lat3xkitty.com/df-wiki/char_Silver">Silver</a>
+</span>
+
+<span data-letter="S" data-story="LyraChronicles">
+  <a href="https://lat3xkitty.com/df-wiki/char_Skye">Skye</a>
+</span>
+
+<span data-letter="S" data-story="MTF">
+  <a href="https://lat3xkitty.com/df-wiki/char_Solace">Solace</a>
+</span>
+
+### T
+<span data-letter="T" data-story="LyraChronicles">
+  <a href="https://lat3xkitty.com/df-wiki/char_TriKats">TriKats</a>
+</span>
+
+### V
+<span data-letter="V" data-story="VelzeaInvasion,VelzeaOrigin">
+  <a href="https://lat3xkitty.com/df-wiki/char_Velzea">Velzea</a>
+</span>
+
+### Y
+<span data-letter="Y" data-story="TTIBAS">
+  <a href="https://lat3xkitty.com/df-wiki/char_Yuuki">Yuuki</a>
+</span>
