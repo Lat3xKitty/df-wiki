@@ -1,2 +1,2 @@
 # Jelly
-Monthly
+Monthly - Jelly's Awakening

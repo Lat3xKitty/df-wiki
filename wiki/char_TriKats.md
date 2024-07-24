@@ -1,2 +1,2 @@
 # TriKats
-Group from Lyra's Chron
+Group that tries to ambuse from Lyra's Chron

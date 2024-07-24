@@ -1,2 +1,2 @@
-# ER1S 
-2021 Monthly
+# ER1S / Eris
+2021 Monthly - Eris' Betrayal
