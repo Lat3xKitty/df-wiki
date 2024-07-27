@@ -1,0 +1,21 @@
+body a {
+    color: #87048E;
+}
+
+body.darkmode--activated a {
+    color: #11D706;
+}
+
+body.darkmode--activated a:hover {
+    color: #45ff3a;
+}
+
+.darkmode-layer, .darkmode-toggle {
+    z-index: 1250;
+}
+
+@media print, screen and (max-width: 960px) {
+    #git-wiki-sidebar {
+        padding-right: 0;
+    }
+}
