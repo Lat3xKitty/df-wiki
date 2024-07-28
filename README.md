@@ -1,19 +1,13 @@
-# git-wiki-skeleton
+# Welcome
+Welcome to the DarkFlame Universe Wiki site. Here you will find information about anything related to the collection of stories that DarkFlame has created. The information on here has primarily been sourced directly from the stories, and gathered together by community members.
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+This site includes a number of spoilers as there are characters which are introduced and outcomes of character's fates which will be explained.
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
+If you wish to contribute to any of the pages, in the top right hand corner are options to help with editing. You will need to make a GitHub account as this allows for us to manage the changes and approve/deny them as needed.
 
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
 
-## The git-wiki project
+## Keep up to date.
+Keep up to date with all the stories and latest DarkFlame information via:
 
-The git-wiki project is composed by 3 different repository:
+### [Pixiv](https://www.pixiv.net/en/users/54131258) | [Fanbox](https://darkflame.fanbox.cc/) | [Patreon](https://www.patreon.com/DarkFlamePixiv) | [e-hentai](https://e-hentai.org/tag/artist:darkflame) | [Twitter](https://twitter.com/DarkFlamePixiv) | [Discord](https://discord.gg/VEZADBbZry)
 
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
-
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it. 
-
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
-
-Version: 1.0.8
