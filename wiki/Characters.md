@@ -1,190 +1,308 @@
 # Characters
 
-<!-- [text](char_Aimi.md) [text](char_Akeno.md) [text](char_Alice.md) [text](char_Angela.md) [text](char_Annie.md) [text](char_AnnSmith.md) [text](char_Cass.md) [text](char_Celeste.md) [text](char_Chari.md) [text](char_Chris_Rino.md) [text](char_Chris.md) [text](char_Claire.md) [text](char_Clerys.md) [text](char_ER1S.md) [text](char_Ferta.md) [text](char_Heltia.md) [text](char_Jean.md) [text](char_Jelly.md) [text](char_Jiyu.md) [text](char_Kana_Monthly.md) [text](char_Kana_MTF.md) [text](char_Kuro.md) [text](char_Laia.md) [text](char_Laura.md) [text](char_Lean.md) [text](char_Leena.md) [text](char_Lyra.md) [text](char_Mae.md) [text](char_Maya.md) [text](char_Metzea.md) [text](char_Mizuki.md) [text](char_Nia.md) [text](char_Noriko.md) [text](char_Ribimura.md) [text](char_Rosaline.md) [text](char_Rose.md) [text](char_Shiori.md) [text](char_Silver.md) [text](char_Skye.md) [text](char_Solace.md) [text](char_TriKats.md) [text](char_Velzea.md) [text](char_Yuuki.md) -->
+<div class="btn-group">
+  <button class="btn" onclick="sortList('alpha')">Alphabetical</button>
+  <button class="btn" onclick="sortList('story')">Story</button>
+</div>
 
 ### A
-<span data-letter="A" data-story="...">
+<span data-story="VelzeasInvasion">
     <a href="https://lat3xkitty.com/df-wiki/char_Aimi">Aimi</a>
 </span>
 
-<span data-letter="A" data-story="TTIBAS,FourTightWomen">
+<span data-story="TTIBAS,FourTightWomen">
   <a href="https://lat3xkitty.com/df-wiki/char_Alice">Alice</a>
 </span>
 
-<span data-letter="A" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Angela">Angela</a>
 </span>
 
-<span data-letter="A" data-story="TTIBAS">
+<span data-story="TTIBAS">
   <a href="https://lat3xkitty.com/df-wiki/char_Annie">Annie</a>
 </span>
 
-<span data-letter="A" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_AnnSmith">Ann Smith</a>
 </span>
 
-<span data-letter="A" data-story="TTIBAS">
-  <a href="https://lat3xkitty.com/df-wiki/char_Akeno">Akeno</a>
-</span>
-
 ### C
-<span data-letter="C" data-story="MTF,Monthly">
+<span data-story="MTF,Monthly">
   <a href="https://lat3xkitty.com/df-wiki/char_Cass">Cass</a>
 </span>
 
-<span data-letter="C" data-story="LyraChronicles">
+<span data-story="LyraChronicles">
   <a href="https://lat3xkitty.com/df-wiki/char_Celeste">Celeste</a>
 </span>
 
-<span data-letter="C" data-story="LyraChronicles">
+<span data-story="LyraChronicles">
   <a href="https://lat3xkitty.com/df-wiki/char_Chari">Chari</a>
 </span>
 
-<span data-letter="C" data-story="Monthly">
+<span data-story="VelzeaInvasion">
+  <a href="https://lat3xkitty.com/df-wiki/char_Chea">Chea</a>
+</span>
+
+<span data-story="Monthly">
   <a href="https://lat3xkitty.com/df-wiki/char_Chris_Rino">Chris Rino</a>
 </span>
 
-<span data-letter="C" data-story="TLITD">
+<span data-story="TLITD">
   <a href="https://lat3xkitty.com/df-wiki/char_Chris">Chris</a>
 </span>
 
-<span data-letter="C" data-story="TTIBAS">
+<span data-story="TTIBAS">
   <a href="https://lat3xkitty.com/df-wiki/char_Claire">Claire</a>
 </span>
 
-<span data-letter="C" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Clerys">Clerys</a>
 </span>
 
+<span data-story="TLITD">
+  <a href="https://lat3xkitty.com/df-wiki/char_Cybal">Cybal</a>
+</span>
+
+### D
+<span data-story="TLITD">
+  <a href="https://lat3xkitty.com/df-wiki/char_DarknessLords">Darkness Lords</a>
+</span>
+
+<span data-story="TLITD,Monthly">
+  <a href="https://lat3xkitty.com/df-wiki/char_DrVonDerDage">Doctor Von Der Dage</a>
+</span>
+
 ### E
-<span data-letter="E" data-story="Monthly">
+<span data-story="Monthly">
   <a href="https://lat3xkitty.com/df-wiki/char_ER1S">ER1S</a>
 </span>
 
 ### F
-<span data-letter="F" data-story="VelzeaOrigin">
+<span data-story="VelzeaOrigin">
   <a href="https://lat3xkitty.com/df-wiki/char_Ferta">Ferta</a>
 </span>
 
+<span data-story="VelzeaInvasion">
+  <a href="https://lat3xkitty.com/df-wiki/char_Feshen">Feshen</a>
+</span>
+
 ### H
-<span data-letter="H" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Heltia">Heltia</a>
 </span>
 
 ### J
-<span data-letter="J" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Jean">Jean</a>
 </span>
 
-<span data-letter="J" data-story="Monthly">
+<span data-story="Monthly">
   <a href="https://lat3xkitty.com/df-wiki/char_Jelly">Jelly</a>
 </span>
 
-<span data-letter="J" data-story="VelzeaOrigin,FourTightWomen">
+<span data-story="VelzeaOrigin,FourTightWomen">
   <a href="https://lat3xkitty.com/df-wiki/char_Jiyu">Jiyu</a>
 </span>
 
 ### K
-<span data-letter="K" data-story="Monthly">
+<span data-story="Monthly">
   <a href="https://lat3xkitty.com/df-wiki/char_Kana_Monthly">Kana (Monthly)</a>
 </span>
 
-<span data-letter="K" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Kana_MTF">Kana (MTF)</a>
 </span>
 
-<span data-letter="K" data-story="VelzeaOrigin">
+<span data-story="TLITD">
+  <a href="https://lat3xkitty.com/df-wiki/char_Kate">Kate</a>
+</span>
+
+<span data-story="MTF">
+  <a href="https://lat3xkitty.com/df-wiki/char_Katt">Katt</a>
+</span>
+
+<span data-story="MTF">
+  <a href="https://lat3xkitty.com/df-wiki/char_Kokei">Kokei</a>
+</span>
+
+<span data-story="VelzeaOrigin">
   <a href="https://lat3xkitty.com/df-wiki/char_Kuro">Kuro</a>
 </span>
 
 ### L
-<span data-letter="L" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Laia">Laia</a>
 </span>
 
-<span data-letter="L" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Laura">Laura</a>
 </span>
 
-<span data-letter="L" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Lean">Lean</a>
 </span>
 
-<span data-letter="L" data-story="TLITD">
+<span data-story="TLITD">
   <a href="https://lat3xkitty.com/df-wiki/char_Leena">Leena</a>
 </span>
 
-<span data-letter="L" data-story="LyaChronicles,MTF,FourTightWomen">
+<span data-story="TTIBAS">
+  <a href="https://lat3xkitty.com/df-wiki/char_Lia">Lia</a>
+</span>
+
+<span data-story="LyraChronicles,MTF,FourTightWomen">
   <a href="https://lat3xkitty.com/df-wiki/char_Lyra">Lyra</a>
 </span>
 
 ### M
-<span data-letter="M" data-story="TTIBAS">
+<span data-story="TTIBAS">
   <a href="https://lat3xkitty.com/df-wiki/char_Mae">Mae</a>
 </span>
 
-<span data-letter="M" data-story="TTIBAS">
+<span data-story="TTIBAS">
   <a href="https://lat3xkitty.com/df-wiki/char_Maya">Maya</a>
 </span>
 
-<span data-letter="M" data-story="VelzeaOrigin">
+<span data-story="VelzeaOrigin">
   <a href="https://lat3xkitty.com/df-wiki/char_Metzea">Metzea</a>
 </span>
 
-<span data-letter="M" data-story="VelzeaInvasion">
+<span data-story="VelzeaInvasion">
   <a href="https://lat3xkitty.com/df-wiki/char_Mizuki">Mizuki</a>
 </span>
 
+<span data-story="TTIBAS">
+  <a href="https://lat3xkitty.com/df-wiki/char_Monica">Monica</a>
+</span>
+
 ### N
-<span data-letter="N" data-story="LyraChronicles">
+<span data-story="LyraChronicles">
   <a href="https://lat3xkitty.com/df-wiki/char_Nia">Nia</a>
 </span>
 
-<span data-letter="N" data-story="VelzeaInvasion">
+<span data-story="VelzeaInvasion">
   <a href="https://lat3xkitty.com/df-wiki/char_Noriko">Noriko</a>
 </span>
 
 ### R
-<span data-letter="R" data-story="MTF,Monthly">
+<span data-story="MTF,Monthly">
   <a href="https://lat3xkitty.com/df-wiki/char_Ribimura">Ribimura</a>
 </span>
 
-<span data-letter="R" data-story="LyraChronicles">
+<span data-story="TLITD">
+  <a href="https://lat3xkitty.com/df-wiki/char_Rim">Rim</a>
+</span>
+
+<span data-story="LyraChronicles">
   <a href="https://lat3xkitty.com/df-wiki/char_Rosaline">Rosaline</a>
 </span>
 
-<span data-letter="R" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Rose">Rose</a>
 </span>
 
 ### S
-<span data-letter="S" data-story="VelzeaOrigin">
+<span data-story="VelzeaInvasion">
+  <a href="https://lat3xkitty.com/df-wiki/char_Saya">Saya</a>
+</span>
+
+<span data-story="MTF">
+  <a href="https://lat3xkitty.com/df-wiki/char_Scarlett">Scarlett</a>
+</span>
+
+<span data-story="VelzeaOrigin">
+  <a href="https://lat3xkitty.com/df-wiki/char_Seleena">Seleena</a>
+</span>
+
+<span data-story="VelzeaOrigin">
   <a href="https://lat3xkitty.com/df-wiki/char_Shiori">Shiori</a>
 </span>
 
-<span data-letter="S" data-story="MTF">
+<span data-story="VelzeaInvasion">
+  <a href="https://lat3xkitty.com/df-wiki/char_Shizuka">Shizuka</a>
+</span>
+
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Silver">Silver</a>
 </span>
 
-<span data-letter="S" data-story="LyraChronicles">
+<span data-story="LyraChronicles">
   <a href="https://lat3xkitty.com/df-wiki/char_Skye">Skye</a>
 </span>
 
-<span data-letter="S" data-story="MTF">
+<span data-story="MTF">
   <a href="https://lat3xkitty.com/df-wiki/char_Solace">Solace</a>
 </span>
 
 ### T
-<span data-letter="T" data-story="LyraChronicles">
+<span data-story="LyraChronicles">
   <a href="https://lat3xkitty.com/df-wiki/char_TriKats">TriKats</a>
 </span>
 
 ### V
-<span data-letter="V" data-story="VelzeaInvasion,VelzeaOrigin">
+<span data-story="VelzeaInvasion,VelzeaOrigin">
   <a href="https://lat3xkitty.com/df-wiki/char_Velzea">Velzea</a>
 </span>
 
 ### Y
-<span data-letter="Y" data-story="TTIBAS">
+<span data-story="TTIBAS,FourTightWomen">
   <a href="https://lat3xkitty.com/df-wiki/char_Yuuki">Yuuki</a>
 </span>
+
+
+<script>
+  let currentSort = 'alpha';
+  function sortList(sortType) {
+    if (currentSort === sortType)  return;
+    currentSort = sortType;
+
+    const list = document.querySelectorAll('span[data-story]');
+    const keyList = [];
+
+    list.forEach((item) => {
+      switch (sortType) {
+        default:
+        case 'alpha':
+          const key = item.textContent.trim()[0].toUpperCase();
+          keyList[key] = keyList[key] || [];
+          keyList[key].push(item);
+          break;
+        case 'story':
+          const stories = item.getAttribute('data-story').split(',');
+
+          stories.forEach((story) => {
+            keyList[story] = keyList[story] || [];
+            keyList[story].push(item.cloneNode(true));
+          });
+          break;
+      }
+    });
+    
+    document.querySelector('#git-wiki-content').innerHTML = '<h1 id="characters">Characters</h1>';
+
+    console.log(keyList);
+
+    Object.keys(keyList).sort().forEach((key) => {
+      const header = document.createElement('h3');
+      header.textContent = key;
+      header.id = key;
+
+      document.querySelector('#git-wiki-content').appendChild(header);
+
+      let sortedList = keyList[key].sort()
+      if (sortType === 'alpha') {
+        // Clean up duplicates
+        sortedList = sortedList.filter((item, index, self) =>
+          self.findIndex((t) => t.textContent === item.textContent) === index
+        );
+      }
+
+      sortedList.forEach((item) => {
+        const p = document.createElement('p');
+        p.appendChild(item);
+
+        document.querySelector('#git-wiki-content').appendChild(p);
+      });
+    });
+  }
+</script>

@@ -1,4 +1,4 @@
 # Ribimura
 Based upon a real artist 
-Monthly + Mentioned in MTF
+Monthly (20k + unique one) + Mentioned in MTF
 
