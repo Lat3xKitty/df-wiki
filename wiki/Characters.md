@@ -7,249 +7,363 @@
 
 <section id="list">
 
-  ### A
-  <span data-story="VelzeasInvasion">
-      <a href="https://lat3xkitty.com/df-wiki/char_Aimi">Aimi</a>
-  </span>
+  <h3 id="A">A</h3>
+  <p>
+    <span data-story="VelzeasInvasion">
+        <a href="https://lat3xkitty.com/df-wiki/char_Aimi">Aimi</a>
+    </span>
+  </p>
 
-  <span data-story="TTIBAS,FourTightWomen">
-    <a href="https://lat3xkitty.com/df-wiki/char_Alice">Alice</a>
-  </span>
+  <p>
+    <span data-story="TTIBAS,FourTightWomen">
+      <a href="https://lat3xkitty.com/df-wiki/char_Alice">Alice</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Angela">Angela</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Angela">Angela</a>
+    </span>
+  </p>
 
-  <span data-story="TTIBAS">
-    <a href="https://lat3xkitty.com/df-wiki/char_Annie">Annie</a>
-  </span>
+  <p>
+    <span data-story="TTIBAS">
+      <a href="https://lat3xkitty.com/df-wiki/char_Annie">Annie</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_AnnSmith">Ann Smith</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_AnnSmith">Ann Smith</a>
+    </span>
+  </p>
 
-  ### C
-  <span data-story="MTF,Monthly">
-    <a href="https://lat3xkitty.com/df-wiki/char_Cass">Cass</a>
-  </span>
+  <h3 id="C">C</h3>
+  <p>
+    <span data-story="MTF,Monthly">
+      <a href="https://lat3xkitty.com/df-wiki/char_Cass">Cass</a>
+    </span>
+  </p>
 
-  <span data-story="LyraChronicles">
-    <a href="https://lat3xkitty.com/df-wiki/char_Celeste">Celeste</a>
-  </span>
+  <p>
+    <span data-story="LyraChronicles">
+      <a href="https://lat3xkitty.com/df-wiki/char_Celeste">Celeste</a>
+    </span>
+  </p>
 
-  <span data-story="LyraChronicles">
-    <a href="https://lat3xkitty.com/df-wiki/char_Chari">Chari</a>
-  </span>
+  <p>
+    <span data-story="LyraChronicles">
+      <a href="https://lat3xkitty.com/df-wiki/char_Chari">Chari</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaInvasion">
-    <a href="https://lat3xkitty.com/df-wiki/char_Chea">Chea</a>
-  </span>
+  <p>
+    <span data-story="VelzeaInvasion">
+      <a href="https://lat3xkitty.com/df-wiki/char_Chea">Chea</a>
+    </span>
+  </p>
 
-  <span data-story="Monthly">
-    <a href="https://lat3xkitty.com/df-wiki/char_Chris_Rino">Chris Rino</a>
-  </span>
+  <p>
+    <span data-story="Monthly">
+      <a href="https://lat3xkitty.com/df-wiki/char_Chris_Rino">Chris Rino</a>
+    </span>
+  </p>
 
-  <span data-story="TLITD">
-    <a href="https://lat3xkitty.com/df-wiki/char_Chris">Chris</a>
-  </span>
+  <p>
+    <span data-story="TLITD">
+      <a href="https://lat3xkitty.com/df-wiki/char_Chris">Chris</a>
+    </span>
+  </p>
 
-  <span data-story="TTIBAS">
-    <a href="https://lat3xkitty.com/df-wiki/char_Claire">Claire</a>
-  </span>
+  <p>
+    <span data-story="TTIBAS">
+      <a href="https://lat3xkitty.com/df-wiki/char_Claire">Claire</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Clerys">Clerys</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Clerys">Clerys</a>
+    </span>
+  </p>
 
-  <span data-story="TLITD">
-    <a href="https://lat3xkitty.com/df-wiki/char_Cybal">Cybal</a>
-  </span>
+  <p>
+    <span data-story="TLITD">
+      <a href="https://lat3xkitty.com/df-wiki/char_Cybal">Cybal</a>
+    </span>
+  </p>
 
-  ### D
-  <span data-story="TLITD">
-    <a href="https://lat3xkitty.com/df-wiki/char_DarknessLords">Darkness Lords</a>
-  </span>
+  <h3 id="D">D</h3>
+  <p>
+    <span data-story="TLITD">
+      <a href="https://lat3xkitty.com/df-wiki/char_DarknessLords">Darkness Lords</a>
+    </span>
+  </p>
 
-  <span data-story="TLITD,Monthly">
-    <a href="https://lat3xkitty.com/df-wiki/char_DrVonDerDage">Doctor Von Der Dage</a>
-  </span>
+  <p>
+    <span data-story="TLITD,Monthly">
+      <a href="https://lat3xkitty.com/df-wiki/char_DrVonDerDage">Doctor Von Der Dage</a>
+    </span>
+  </p>
 
-  ### E
-  <span data-story="Monthly">
-    <a href="https://lat3xkitty.com/df-wiki/char_ER1S">ER1S</a>
-  </span>
+  <h3 id="E">E</h3>
+  <p>
+    <span data-story="Monthly">
+      <a href="https://lat3xkitty.com/df-wiki/char_ER1S">ER1S</a>
+    </span>
+  </p>
 
-  ### F
-  <span data-story="VelzeaOrigin">
-    <a href="https://lat3xkitty.com/df-wiki/char_Ferta">Ferta</a>
-  </span>
+  <h3 id="F">F</h3>
+  <p>
+    <span data-story="VelzeaOrigin">
+      <a href="https://lat3xkitty.com/df-wiki/char_Ferta">Ferta</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaInvasion">
-    <a href="https://lat3xkitty.com/df-wiki/char_Feshen">Feshen</a>
-  </span>
+  <p>
+    <span data-story="VelzeaInvasion">
+      <a href="https://lat3xkitty.com/df-wiki/char_Feshen">Feshen</a>
+    </span>
+  </p>
 
-  ### H
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Heltia">Heltia</a>
-  </span>
+  <h3 id="H">H</h3>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Heltia">Heltia</a>
+    </span>
+  </p>
 
-  ### J
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Jean">Jean</a>
-  </span>
+  <h3 id="J">J</h3>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Jean">Jean</a>
+    </span>
+  </p>
 
-  <span data-story="Monthly">
-    <a href="https://lat3xkitty.com/df-wiki/char_Jelly">Jelly</a>
-  </span>
+  <p>
+    <span data-story="Monthly">
+      <a href="https://lat3xkitty.com/df-wiki/char_Jelly">Jelly</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaOrigin,FourTightWomen">
-    <a href="https://lat3xkitty.com/df-wiki/char_Jiyu">Jiyu</a>
-  </span>
+  <p>
+    <span data-story="VelzeaOrigin,FourTightWomen">
+      <a href="https://lat3xkitty.com/df-wiki/char_Jiyu">Jiyu</a>
+    </span>
+  </p>
 
-  ### K
-  <span data-story="Monthly">
-    <a href="https://lat3xkitty.com/df-wiki/char_Kana_Monthly">Kana (Monthly)</a>
-  </span>
+  <h3 id="K">K</h3>
+  <p>
+    <span data-story="Monthly">
+      <a href="https://lat3xkitty.com/df-wiki/char_Kana_Monthly">Kana (Monthly)</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Kana_MTF">Kana (MTF)</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Kana_MTF">Kana (MTF)</a>
+    </span>
+  </p>
 
-  <span data-story="TLITD">
-    <a href="https://lat3xkitty.com/df-wiki/char_Kate">Kate</a>
-  </span>
+  <p>
+    <span data-story="TLITD">
+      <a href="https://lat3xkitty.com/df-wiki/char_Kate">Kate</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Katt">Katt</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Katt">Katt</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Kokei">Kokei</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Kokei">Kokei</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaOrigin">
-    <a href="https://lat3xkitty.com/df-wiki/char_Kuro">Kuro</a>
-  </span>
+  <p>
+    <span data-story="VelzeaOrigin">
+      <a href="https://lat3xkitty.com/df-wiki/char_Kuro">Kuro</a>
+    </span>
+  </p>
 
-  ### L
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Laia">Laia</a>
-  </span>
+  <h3 id="L">L</h3>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Laia">Laia</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Laura">Laura</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Laura">Laura</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Lean">Lean</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Lean">Lean</a>
+    </span>
+  </p>
 
-  <span data-story="TLITD">
-    <a href="https://lat3xkitty.com/df-wiki/char_Leena">Leena</a>
-  </span>
+  <p>
+    <span data-story="TLITD">
+      <a href="https://lat3xkitty.com/df-wiki/char_Leena">Leena</a>
+    </span>
+  </p>
 
-  <span data-story="TTIBAS">
-    <a href="https://lat3xkitty.com/df-wiki/char_Lia">Lia</a>
-  </span>
+  <p>
+    <span data-story="TTIBAS">
+      <a href="https://lat3xkitty.com/df-wiki/char_Lia">Lia</a>
+    </span>
+  </p>
 
-  <span data-story="LyraChronicles,MTF,FourTightWomen">
-    <a href="https://lat3xkitty.com/df-wiki/char_Lyra">Lyra</a>
-  </span>
+  <p>
+    <span data-story="LyraChronicles,MTF,FourTightWomen">
+      <a href="https://lat3xkitty.com/df-wiki/char_Lyra">Lyra</a>
+    </span>
+  </p>
 
-  ### M
-  <span data-story="TTIBAS">
-    <a href="https://lat3xkitty.com/df-wiki/char_Mae">Mae</a>
-  </span>
+  <h3 id="M">M</h3>
+  <p>
+    <span data-story="TTIBAS">
+      <a href="https://lat3xkitty.com/df-wiki/char_Mae">Mae</a>
+    </span>
+  </p>
 
-  <span data-story="TTIBAS">
-    <a href="https://lat3xkitty.com/df-wiki/char_Maya">Maya</a>
-  </span>
+  <p>
+    <span data-story="TTIBAS">
+      <a href="https://lat3xkitty.com/df-wiki/char_Maya">Maya</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaOrigin">
-    <a href="https://lat3xkitty.com/df-wiki/char_Metzea">Metzea</a>
-  </span>
+  <p>
+    <span data-story="VelzeaOrigin">
+      <a href="https://lat3xkitty.com/df-wiki/char_Metzea">Metzea</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaInvasion">
-    <a href="https://lat3xkitty.com/df-wiki/char_Mizuki">Mizuki</a>
-  </span>
+  <p>
+    <span data-story="VelzeaInvasion">
+      <a href="https://lat3xkitty.com/df-wiki/char_Mizuki">Mizuki</a>
+    </span>
+  </p>
 
-  <span data-story="TTIBAS">
-    <a href="https://lat3xkitty.com/df-wiki/char_Monica">Monica</a>
-  </span>
+  <p>
+    <span data-story="TTIBAS">
+      <a href="https://lat3xkitty.com/df-wiki/char_Monica">Monica</a>
+    </span>
+  </p>
 
-  ### N
-  <span data-story="LyraChronicles">
-    <a href="https://lat3xkitty.com/df-wiki/char_Nia">Nia</a>
-  </span>
+  <h3 id="N">N</h3>
+  <p>
+    <span data-story="LyraChronicles">
+      <a href="https://lat3xkitty.com/df-wiki/char_Nia">Nia</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaInvasion">
-    <a href="https://lat3xkitty.com/df-wiki/char_Noriko">Noriko</a>
-  </span>
+  <p>
+    <span data-story="VelzeaInvasion">
+      <a href="https://lat3xkitty.com/df-wiki/char_Noriko">Noriko</a>
+    </span>
+  </p>
 
-  ### R
-  <span data-story="MTF,Monthly">
-    <a href="https://lat3xkitty.com/df-wiki/char_Ribimura">Ribimura</a>
-  </span>
+  <h3 id="R">R</h3>
+  <p>
+    <span data-story="MTF,Monthly">
+      <a href="https://lat3xkitty.com/df-wiki/char_Ribimura">Ribimura</a>
+    </span>
+  </p>
 
-  <span data-story="TLITD">
-    <a href="https://lat3xkitty.com/df-wiki/char_Rim">Rim</a>
-  </span>
+  <p>
+    <span data-story="TLITD">
+      <a href="https://lat3xkitty.com/df-wiki/char_Rim">Rim</a>
+    </span>
+  </p>
 
-  <span data-story="LyraChronicles">
-    <a href="https://lat3xkitty.com/df-wiki/char_Rosaline">Rosaline</a>
-  </span>
+  <p>
+    <span data-story="LyraChronicles">
+      <a href="https://lat3xkitty.com/df-wiki/char_Rosaline">Rosaline</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Rose">Rose</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Rose">Rose</a>
+    </span>
+  </p>
 
-  ### S
-  <span data-story="VelzeaInvasion">
-    <a href="https://lat3xkitty.com/df-wiki/char_Saya">Saya</a>
-  </span>
+  <h3 id="S">S</h3>
+  <p>
+    <span data-story="VelzeaInvasion">
+      <a href="https://lat3xkitty.com/df-wiki/char_Saya">Saya</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Scarlett">Scarlett</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Scarlett">Scarlett</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaOrigin">
-    <a href="https://lat3xkitty.com/df-wiki/char_Seleena">Seleena</a>
-  </span>
+  <p>
+    <span data-story="VelzeaOrigin">
+      <a href="https://lat3xkitty.com/df-wiki/char_Seleena">Seleena</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaOrigin">
-    <a href="https://lat3xkitty.com/df-wiki/char_Shiori">Shiori</a>
-  </span>
+  <p>
+    <span data-story="VelzeaOrigin">
+      <a href="https://lat3xkitty.com/df-wiki/char_Shiori">Shiori</a>
+    </span>
+  </p>
 
-  <span data-story="VelzeaInvasion">
-    <a href="https://lat3xkitty.com/df-wiki/char_Shizuka">Shizuka</a>
-  </span>
+  <p>
+    <span data-story="VelzeaInvasion">
+      <a href="https://lat3xkitty.com/df-wiki/char_Shizuka">Shizuka</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Silver">Silver</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Silver">Silver</a>
+    </span>
+  </p>
 
-  <span data-story="LyraChronicles">
-    <a href="https://lat3xkitty.com/df-wiki/char_Skye">Skye</a>
-  </span>
+  <p>
+    <span data-story="LyraChronicles">
+      <a href="https://lat3xkitty.com/df-wiki/char_Skye">Skye</a>
+    </span>
+  </p>
 
-  <span data-story="MTF">
-    <a href="https://lat3xkitty.com/df-wiki/char_Solace">Solace</a>
-  </span>
+  <p>
+    <span data-story="MTF">
+      <a href="https://lat3xkitty.com/df-wiki/char_Solace">Solace</a>
+    </span>
+  </p>
 
-  ### T
-  <span data-story="LyraChronicles">
-    <a href="https://lat3xkitty.com/df-wiki/char_TriKats">TriKats</a>
-  </span>
+  <h3 id="T">T</h3>
+  <p>
+    <span data-story="LyraChronicles">
+      <a href="https://lat3xkitty.com/df-wiki/char_TriKats">TriKats</a>
+    </span>
+  </p>
 
-  ### V
-  <span data-story="VelzeaInvasion,VelzeaOrigin">
-    <a href="https://lat3xkitty.com/df-wiki/char_Velzea">Velzea</a>
-  </span>
+  <h3 id="V">V</h3>
+  <p>
+    <span data-story="VelzeaInvasion,VelzeaOrigin">
+      <a href="https://lat3xkitty.com/df-wiki/char_Velzea">Velzea</a>
+    </span>
+  </p>
 
-  ### Y
-  <span data-story="TTIBAS,FourTightWomen">
-    <a href="https://lat3xkitty.com/df-wiki/char_Yuuki">Yuuki</a>
-  </span>
+  <h3 id="Y">Y</h3>
+  <p>
+    <span data-story="TTIBAS,FourTightWomen">
+      <a href="https://lat3xkitty.com/df-wiki/char_Yuuki">Yuuki</a>
+    </span>
+  </p>
 
 </section>
 
