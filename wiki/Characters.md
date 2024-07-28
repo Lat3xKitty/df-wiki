@@ -331,16 +331,16 @@
   let currentSort = 'alpha';
   const elm_List = document.getElementById('list');
 
-  const storyList = [
-    'VelzeasInvasion':  "Velzea's Invasion",
-    'VelzeasOrigin':    "Velzea's Origin",
-    'TTIBAS':           "That Time I became a Succubus",
-    'MTF':              "My True Fate",
-    'Monthly':          "Monthly",
-    'TLITD':            "The Light in the Dark",
-    'LyraChronicles':   "Lyra's Chronicles",
-    'FourTightWomen':   "Four Tight Women"
-  ]
+  const storyList = {
+    'VelzeasInvasion' : "Velzea's Invasion",
+    'VelzeasOrigin'   : "Velzea's Origin",
+    'TTIBAS'          : "That Time I became a Succubus",
+    'MTF'             : "My True Fate",
+    'Monthly'         : "Monthly",
+    'TLITD'           : "The Light in the Dark",
+    'LyraChronicles'  : "Lyra's Chronicles",
+    'FourTightWomen'  : "Four Tight Women"
+  };
 
   function sortList(sortType) {
     if (currentSort === sortType)  return;
@@ -392,7 +392,7 @@
       }
 
 
-      header.textContent = key;
+      header.textContent = displayKey;
       header.id = key;
       elm_List.appendChild(header);
 
