@@ -10,317 +10,317 @@
   <h3 id="A">A</h3>
   <p>
     <span data-story="VelzeasInvasion">
-        <a href="https://lat3xkitty.com/df-wiki/char_Aimi">Aimi</a>
+        <a href="https://wiki.darkflameuniverse.com/char_Aimi">Aimi</a>
     </span>
   </p>
   <p>
     <span data-story="TTIBAS,FourTightWomen">
-      <a href="https://lat3xkitty.com/df-wiki/char_Alice">Alice</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Alice">Alice</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Angela">Angela</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Angela">Angela</a>
     </span>
   </p>
   <p>
     <span data-story="TTIBAS">
-      <a href="https://lat3xkitty.com/df-wiki/char_Annie">Annie</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Annie">Annie</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_AnnSmith">Ann Smith</a>
+      <a href="https://wiki.darkflameuniverse.com/char_AnnSmith">Ann Smith</a>
     </span>
   </p>
 
   <h3 id="C">C</h3>
   <p>
     <span data-story="MTF,Monthly">
-      <a href="https://lat3xkitty.com/df-wiki/char_Cass">Cass</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Cass">Cass</a>
     </span>
   </p>
   <p>
     <span data-story="LyraChronicles">
-      <a href="https://lat3xkitty.com/df-wiki/char_Celeste">Celeste</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Celeste">Celeste</a>
     </span>
   </p>
   <p>
     <span data-story="LyraChronicles">
-      <a href="https://lat3xkitty.com/df-wiki/char_Chari">Chari</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Chari">Chari</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasInvasion">
-      <a href="https://lat3xkitty.com/df-wiki/char_Chea">Chea</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Chea">Chea</a>
     </span>
   </p>
   <p>
     <span data-story="Monthly">
-      <a href="https://lat3xkitty.com/df-wiki/char_Chris_Rino">Chris Rino</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Chris_Rino">Chris Rino</a>
     </span>
   </p>
   <p>
     <span data-story="TLITD">
-      <a href="https://lat3xkitty.com/df-wiki/char_Chris">Chris</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Chris">Chris</a>
     </span>
   </p>
   <p>
     <span data-story="TTIBAS">
-      <a href="https://lat3xkitty.com/df-wiki/char_Claire">Claire</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Claire">Claire</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Clerys">Clerys</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Clerys">Clerys</a>
     </span>
   </p>
   <p>
     <span data-story="TLITD">
-      <a href="https://lat3xkitty.com/df-wiki/char_Cybal">Cybal</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Cybal">Cybal</a>
     </span>
   </p>
 
   <h3 id="D">D</h3>
   <p>
     <span data-story="TLITD">
-      <a href="https://lat3xkitty.com/df-wiki/char_DarknessLords">Darkness Lords</a>
+      <a href="https://wiki.darkflameuniverse.com/char_DarknessLords">Darkness Lords</a>
     </span>
   </p>
   <p>
     <span data-story="TLITD,Monthly">
-      <a href="https://lat3xkitty.com/df-wiki/char_DrVonDerDage">Doctor Von Der Dage</a>
+      <a href="https://wiki.darkflameuniverse.com/char_DrVonDerDage">Doctor Von Der Dage</a>
     </span>
   </p>
 
   <h3 id="E">E</h3>
   <p>
     <span data-story="Monthly">
-      <a href="https://lat3xkitty.com/df-wiki/char_ER1S">ER1S</a>
+      <a href="https://wiki.darkflameuniverse.com/char_ER1S">ER1S</a>
     </span>
   </p>
 
   <h3 id="F">F</h3>
   <p>
     <span data-story="VelzeasOrigin">
-      <a href="https://lat3xkitty.com/df-wiki/char_Ferta">Ferta</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Ferta">Ferta</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasInvasion">
-      <a href="https://lat3xkitty.com/df-wiki/char_Feshen">Feshen</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Feshen">Feshen</a>
     </span>
   </p>
 
   <h3 id="H">H</h3>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Heltia">Heltia</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Heltia">Heltia</a>
     </span>
   </p>
 
   <h3 id="J">J</h3>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Jean">Jean</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Jean">Jean</a>
     </span>
   </p>
   <p>
     <span data-story="Monthly">
-      <a href="https://lat3xkitty.com/df-wiki/char_Jelly">Jelly</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Jelly">Jelly</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasOrigin,FourTightWomen">
-      <a href="https://lat3xkitty.com/df-wiki/char_Jiyu">Jiyu</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Jiyu">Jiyu</a>
     </span>
   </p>
 
   <h3 id="K">K</h3>
   <p>
     <span data-story="Monthly">
-      <a href="https://lat3xkitty.com/df-wiki/char_Kana_Monthly">Kana (Monthly)</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Kana_Monthly">Kana (Monthly)</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Kana_MTF">Kana (MTF)</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Kana_MTF">Kana (MTF)</a>
     </span>
   </p>
   <p>
     <span data-story="TLITD">
-      <a href="https://lat3xkitty.com/df-wiki/char_Kate">Kate</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Kate">Kate</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Katt">Katt</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Katt">Katt</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Kokei">Kokei</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Kokei">Kokei</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasOrigin">
-      <a href="https://lat3xkitty.com/df-wiki/char_Kuro">Kuro</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Kuro">Kuro</a>
     </span>
   </p>
 
   <h3 id="L">L</h3>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Laia">Laia</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Laia">Laia</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Laura">Laura</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Laura">Laura</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Lean">Lean</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Lean">Lean</a>
     </span>
   </p>
   <p>
     <span data-story="TLITD">
-      <a href="https://lat3xkitty.com/df-wiki/char_Leena">Leena</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Leena">Leena</a>
     </span>
   </p>
   <p>
     <span data-story="TTIBAS">
-      <a href="https://lat3xkitty.com/df-wiki/char_Lia">Lia</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Lia">Lia</a>
     </span>
   </p>
   <p>
     <span data-story="LyraChronicles,MTF,FourTightWomen">
-      <a href="https://lat3xkitty.com/df-wiki/char_Lyra">Lyra</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Lyra">Lyra</a>
     </span>
   </p>
 
   <h3 id="M">M</h3>
   <p>
     <span data-story="TTIBAS">
-      <a href="https://lat3xkitty.com/df-wiki/char_Mae">Mae</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Mae">Mae</a>
     </span>
   </p>
   <p>
     <span data-story="TTIBAS">
-      <a href="https://lat3xkitty.com/df-wiki/char_Maya">Maya</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Maya">Maya</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasOrigin">
-      <a href="https://lat3xkitty.com/df-wiki/char_Metzea">Metzea</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Metzea">Metzea</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasInvasion">
-      <a href="https://lat3xkitty.com/df-wiki/char_Mizuki">Mizuki</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Mizuki">Mizuki</a>
     </span>
   </p>
   <p>
     <span data-story="TTIBAS">
-      <a href="https://lat3xkitty.com/df-wiki/char_Monica">Monica</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Monica">Monica</a>
     </span>
   </p>
 
   <h3 id="N">N</h3>
   <p>
     <span data-story="LyraChronicles">
-      <a href="https://lat3xkitty.com/df-wiki/char_Nia">Nia</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Nia">Nia</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasInvasion">
-      <a href="https://lat3xkitty.com/df-wiki/char_Noriko">Noriko</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Noriko">Noriko</a>
     </span>
   </p>
 
   <h3 id="R">R</h3>
   <p>
     <span data-story="MTF,Monthly">
-      <a href="https://lat3xkitty.com/df-wiki/char_Ribimura">Ribimura</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Ribimura">Ribimura</a>
     </span>
   </p>
   <p>
     <span data-story="TLITD">
-      <a href="https://lat3xkitty.com/df-wiki/char_Rim">Rim</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Rim">Rim</a>
     </span>
   </p>
   <p>
     <span data-story="LyraChronicles">
-      <a href="https://lat3xkitty.com/df-wiki/char_Rosaline">Rosaline</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Rosaline">Rosaline</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Rose">Rose</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Rose">Rose</a>
     </span>
   </p>
 
   <h3 id="S">S</h3>
   <p>
     <span data-story="VelzeasInvasion">
-      <a href="https://lat3xkitty.com/df-wiki/char_Saya">Saya</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Saya">Saya</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Scarlett">Scarlett</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Scarlett">Scarlett</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasOrigin">
-      <a href="https://lat3xkitty.com/df-wiki/char_Seleena">Seleena</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Seleena">Seleena</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasOrigin">
-      <a href="https://lat3xkitty.com/df-wiki/char_Shiori">Shiori</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Shiori">Shiori</a>
     </span>
   </p>
   <p>
     <span data-story="VelzeasInvasion">
-      <a href="https://lat3xkitty.com/df-wiki/char_Shizuka">Shizuka</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Shizuka">Shizuka</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Silver">Silver</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Silver">Silver</a>
     </span>
   </p>
   <p>
     <span data-story="LyraChronicles">
-      <a href="https://lat3xkitty.com/df-wiki/char_Skye">Skye</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Skye">Skye</a>
     </span>
   </p>
   <p>
     <span data-story="MTF">
-      <a href="https://lat3xkitty.com/df-wiki/char_Solace">Solace</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Solace">Solace</a>
     </span>
   </p>
 
   <h3 id="T">T</h3>
   <p>
     <span data-story="LyraChronicles">
-      <a href="https://lat3xkitty.com/df-wiki/char_TriKats">TriKats</a>
+      <a href="https://wiki.darkflameuniverse.com/char_TriKats">TriKats</a>
     </span>
   </p>
 
   <h3 id="V">V</h3>
   <p>
     <span data-story="VelzeasInvasion,VelzeasOrigin">
-      <a href="https://lat3xkitty.com/df-wiki/char_Velzea">Velzea</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Velzea">Velzea</a>
     </span>
   </p>
 
   <h3 id="Y">Y</h3>
   <p>
     <span data-story="TTIBAS,FourTightWomen">
-      <a href="https://lat3xkitty.com/df-wiki/char_Yuuki">Yuuki</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Yuuki">Yuuki</a>
     </span>
   </p>
 
