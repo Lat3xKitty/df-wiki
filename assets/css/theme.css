@@ -19,3 +19,35 @@ body.darkmode--activated a:hover {
         padding-right: 0;
     }
 }
+
+
+/* Wiki style Sidebar */
+#wiki_sidebar {
+    float: right;
+    width: 25%;
+    margin-left: 16px;
+    padding: 4px;
+    background: #d4e7e5;
+    border-radius: 8px;
+}
+
+#wiki_sidebar h2 {
+    text-align: center;
+}
+
+#wiki_sidebar .wiki_sidebar_picture_titles {
+    display: flex;
+    justify-content: space-around;
+}
+
+#wiki_sidebar .wiki_sidebar_picture_title {
+    cursor: pointer;
+}
+
+#wiki_sidebar .wiki_sidebar_picture img {
+    aspect-ratio: 9 / 16;
+}
+
+#wiki_sidebar .wiki_sidebar_fact_title {
+    font-weight: bold;
+}
