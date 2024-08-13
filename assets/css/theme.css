@@ -14,6 +14,12 @@ body.darkmode--activated a:hover {
     z-index: 1250;
 }
 
+/* Fix images in Dark Mode by setting them ABOVE the Darkmode layer */
+body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
+    z-index: 1300;
+    position: relative;
+}
+
 @media print, screen and (max-width: 960px) {
     #git-wiki-sidebar {
         padding-right: 0;
@@ -46,6 +52,7 @@ body.darkmode--activated a:hover {
 
 #wiki_sidebar .wiki_sidebar_picture img {
     aspect-ratio: 9 / 16;
+    object-fit: scale-down;
 }
 
 #wiki_sidebar .wiki_sidebar_fact_title {
