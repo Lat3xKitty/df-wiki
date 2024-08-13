@@ -4,7 +4,7 @@
     const wiki_sidebar = {
         title: "Leena",
         pictures: [
-            {name: "Default Outfit", src: "...", subtext: null}
+            {name: "Default Outfit", src: "assets/img/char/Leena/Leena_Default.png", subtext: null}
         ],
         factlist: [
             // {title: "Alternative Names", value: null},
