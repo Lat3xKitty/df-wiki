@@ -18,19 +18,14 @@ body.darkmode--activated a:hover {
 body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
     z-index: 1300;
     position: relative;
-}
-
-@media print, screen and (max-width: 960px) {
-    #git-wiki-sidebar {
-        padding-right: 0;
-    }
+    mix-blend-mode: unset;
 }
 
 
 /* Wiki style Sidebar */
 #wiki_sidebar {
     float: right;
-    width: 25%;
+    width: 100%;
     margin-left: 16px;
     padding: 4px;
     background: #d4e7e5;
@@ -39,22 +34,65 @@ body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
 
 #wiki_sidebar h2 {
     text-align: center;
+    margin: 10px 0;
 }
 
 #wiki_sidebar .wiki_sidebar_picture_titles {
     display: flex;
-    justify-content: space-around;
+    gap: 4px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    margin-bottom: 8px;
 }
 
 #wiki_sidebar .wiki_sidebar_picture_title {
     cursor: pointer;
+    padding: 5px;
+    border-radius: 4px;
+    background: #c9c9c9;
+    color: black;
+}
+
+#wiki_sidebar .wiki_sidebar_picture {
+    text-align: center;
 }
 
 #wiki_sidebar .wiki_sidebar_picture img {
     aspect-ratio: 9 / 16;
     object-fit: scale-down;
+    max-height: 80vh;
+}
+
+#wiki_sidebar .wiki_sidebar_factlist {
+    margin: 8px 4px;
 }
 
 #wiki_sidebar .wiki_sidebar_fact_title {
     font-weight: bold;
+    display: inline-block;
+    width: 30%;
+}
+
+#wiki_sidebar .wiki_sidebar_fact_value {
+    display: inline-block;
+    width: 70%;
+}
+
+@media (min-width: 640px) {
+    #wiki_sidebar {
+        max-width: 320px;
+    }
+}
+
+@media print, screen and (max-width: 960px) {
+    #git-wiki-sidebar {
+        padding-right: 0;
+    }
+}
+
+@media screen and (max-width: 992px) and (min-width: 960px) {
+    .git-wiki-page {
+        padding-left: 0;
+    }
 }

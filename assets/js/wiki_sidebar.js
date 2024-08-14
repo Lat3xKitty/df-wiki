@@ -25,6 +25,7 @@ if (wiki_sidebar.pictures && wiki_sidebar.pictures.length > 0) {
 
     const picture_img = document.createElement("img");
     picture_img.src = wiki_sidebar.pictures[0].src;
+    picture_img.alt = wiki_sidebar.pictures[0].name;
     picture_div.appendChild(picture_img);
 
     const picture_subtext = document.createElement("div");
