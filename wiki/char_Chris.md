@@ -7,7 +7,7 @@
              {name: "Chris' Work Attire",       src: "assets/img/char/Chris/Chris_Work.png",            subtext: null},
              {name: "Chris' White Date Dress",  src: "assets/img/char/Chris/Chris_WhiteDateDress.png",  subtext: null },
 
-             {name: "Sun Solder Sol",           src: "assets/img/char/Chris/Sun_Solder_Sol.png",        subtext: null},
+             {name: "Sun Soldier Sol",           src: "assets/img/char/Chris/Sun_Soldier_Sol.png",        subtext: null},
              {name: "Slave Maiden Chris",       src: "assets/img/char/Chris/Chris_Slave_Maiden.png",    subtext: null},
         ],
         factlist: [
