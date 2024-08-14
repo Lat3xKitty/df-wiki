@@ -11,7 +11,7 @@
             {name: "Kate Black Date Dress",     src: "assets/img/char/Kate/Kate_Black_Date_Dress.png",  subtext: "Episode 1 - Dress for first date with Chris"},
 
             {name: "Star Knight Light",         src: "assets/img/char/Kate/Star_Knight_Light.png",      subtext: null},
-            {name: "Star Knight Light + Cuffs", src: "assets/img/char/Kate/Star_Knight_Light_cuffs.png", subtext: "Episode 1 - The more \"Leena\" focused outfit for Light. Fingerless Gloves, Glossy Nails, Heels and a Pony Tail"}
+            {name: "Star Knight Light + Cuffs", src: "assets/img/char/Kate/Star_Knight_Light_cuffs.png", subtext: "Episode 1 - The more \"Leena\" focused outfit for Light. Fingerless Gloves, Glossy Nails, Heels and a Pony Tail"},
             {name: "Slave Maiden Darkness",     src: "assets/img/char/Kate/Slave_Maiden_Darkness.png",  subtext: "Episode 1 - Light is corrupted by Leena's Binders"},
             {name: "Night Star Light",          src: "assets/img/char/Kate/Night_Star_Light.png",       subtext: "Episode 3 - Light absorbs Chris/Sol's Corruption"}
         ],
