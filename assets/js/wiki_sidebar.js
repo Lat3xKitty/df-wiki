@@ -32,6 +32,7 @@ if (wiki_sidebar.pictures && wiki_sidebar.pictures.length > 0) {
     picture_subtext.classList.add("wiki_sidebar_picture_subtext");
     picture_subtext.textContent = wiki_sidebar.pictures[0].subtext || "";
     picture_subtext.style.display = wiki_sidebar.pictures[0].subtext ? "block" : "none";
+    picture_div.appendChild(picture_subtext);
 
     for(const picture of wiki_sidebar.pictures) {
         const picture_title = document.createElement("div");
