@@ -1,13 +1,13 @@
-# Kate Godwin Star Knight Light
+# Kate Godwin / Star Knight Light
 <!-- Info is correct as of end of Episode 2, 14th Aug 2024 -->
 
 <script>
     const wiki_sidebar = {
         title: "Kate / Light",
         pictures: [
-            {name: "Kate's Work Uniform",       src: "assets/img/char/Kate/Kate_WorkUniform.png",       subtext: null},
+            {name: "Kate's Work Uniform",       src: "assets/img/char/Kate/Kate_WorkUniform.png",       subtext: "Work Uniform at Miller"},
             {name: "Kate after work Jacket",    src: "assets/img/char/Kate/Kate_Jacket.png",            subtext: null},
-            {name: "Kate Black Date Dress",     src: "assets/img/char/Kate/Kate_Black_Date_Dress.png",  subtext: null},
+            {name: "Kate Black Date Dress",     src: "assets/img/char/Kate/Kate_Black_Date_Dress.png",  subtext: "Episode 1 - Dress for first date with Chris"},
 
             {name: "Star Knight Light",         src: "assets/img/char/Kate/Star_Knight_Light.png",      subtext: null},
             {name: "Slave Maiden Darkness",     src: "assets/img/char/Kate/Slave_Maiden_Darkness.png",  subtext: "Episode 1 - Light is corrupted by Leena's Binders"},
