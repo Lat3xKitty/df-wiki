@@ -5,10 +5,13 @@
     const wiki_sidebar = {
         title: "Kate / Light",
         pictures: [
-            {name: "Kate's Work Uniform",       src: "assets/img/char/Kate/Kate_WorkUniform.png",       subtext: "Work Uniform at Miller"},
-            {name: "Kate after work Jacket",    src: "assets/img/char/Kate/Kate_Jacket.png",            subtext: null},
-            {name: "Kate's at home",            src: "assets/img/char/Kate/Kate_AtHome.png",            subtext: null},
-            {name: "Kate Black Date Dress",     src: "assets/img/char/Kate/Kate_Black_Date_Dress.png",  subtext: "Episode 1 - Dress for first date with Chris"},
+            {name: "Work Uniform",          src: "assets/img/char/Kate/Kate_WorkUniform.png",           subtext: "Work Uniform at Miller"},
+            {name: "After work Jacket",     src: "assets/img/char/Kate/Kate_Jacket.png",                subtext: null},
+            {name: "At home",               src: "assets/img/char/Kate/Kate_AtHome.png",                subtext: null},
+            {name: "Black Date Dress",      src: "assets/img/char/Kate/Kate_Black_Date_Dress.png",      subtext: "Episode 1 - Dress for first date with Chris"},
+            {name: "Casual (Date 2)",       src: "assets/img/char/Kate/Kate_Casual.png",                subtext: "Episode 3 - Second Date with Chris"},
+            {name: "Date 2 Latex Harness",  src: "assets/img/char/Chris/Chris_Date2LatexHarness.png",   subtext: null},
+
 
             {name: "Star Knight Light",         src: "assets/img/char/Kate/Star_Knight_Light.png",      subtext: null},
             {name: "Star Knight Light + Cuffs", src: "assets/img/char/Kate/Star_Knight_Light_cuffs.png", subtext: "Episode 1 - The more \"Leena\" focused outfit for Light. Fingerless Gloves, Glossy Nails, Heels and a Pony Tail"},
@@ -47,5 +50,19 @@ Her most used ability is called "Star Crusher". She concentrates energy into her
 In order to detransform, she has to use "Starlight Purifier" to cleanse her whole body from everything that is not her human form. This helps her control her powers easily and cleanse her body from any posion and/or ailment she might have, alongside any tracking the enemy mighttve put on her.
 
 After absorbing Leena's binders' Light's appearance changed a little bit to fit her superhero outfit preferences. Her hair became a longer ponytail, she has glossy polished nails and the binders have been permanently attached to her neck. After Sol's purifying flame, the binders no longer make her more susceptible to be corrupted by Leena, but they will still make her have highly erotic dreams.
+
+## Night Star Light
+Light's new form after letting Leena's mark on her butt grow larger and take root deeper inside her soul. Even her whole outfit got partially corrupted, showing a darker version of her former light and cheerful colour.
+
+Her new outfit also features some new accessories that are also present in every minion under Leena's control, those being:
+- Her latex gloves with the belts on herarms,
+- The latex-leggings hugging her thighs under the outfit
+- Her whole outfit also changing from a spandex-like material into a latex material.
+
+Her personality hasn't changed at all, but Leena's influence is still affecting her. If a collar were to be put on her by Leena herself, not even Sol would be able to save Light from being transformed into Leena's slave. The noticeable large Leena's crest on her back is a constant reminder to Light that she will one day become Leena's slave, unless she finds a way of removing it, which is unlikely.
+
+Just like Leena mentioned, Light's power has actually increased thanks to the binders she previously put on. And now that Leena's crest is bigger, Light's powers have also been, slightly enhanced. If she let the crest's corruption go deeper inside of her, she can draw even more power from it. Light is completely against this option, but she wouldn't refuse to do it if that was literally the last option she had.
+
+In the public eye, Light has taken this change of outfit as a "new chapter" of her superhero life. It's not rare for superheroes to take advantage of this situation by trying to become more popular. In Light's case, she became more popular with teens and grown-ups thanks to her new darker and rubbery appearance, which she is not against at all.
 
 <script src="/assets/js/wiki_sidebar.js"></script>
