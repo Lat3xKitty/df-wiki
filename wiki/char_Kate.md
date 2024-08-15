@@ -65,4 +65,13 @@ Just like Leena mentioned, Light's power has actually increased thanks to the bi
 
 In the public eye, Light has taken this change of outfit as a "new chapter" of her superhero life. It's not rare for superheroes to take advantage of this situation by trying to become more popular. In Light's case, she became more popular with teens and grown-ups thanks to her new darker and rubbery appearance, which she is not against at all.
 
+## NEO L1GHT - Dronified Light
+Light's body and form after being severely modified and enhanced by Cybal's experiments. Her body has, been filled wit countless nanomachines that keep tweaking her body whenever Cybal wishes to do so. This means instant modifications and, of course a constant check on her brain to keep her under control.
+
+This "NEO L1GHT" is faster, stronger and tougher than her normnal version, all thanks to Cybal. Since Neo Light has zero corruption on her body, she has not been corrupted, such is the way Cybal to turn people into her drones. She brainwashes them, and then modifies them with nanomachines to fit her needs, such as "recruiting" new drones.
+
+Neo Light's body has also been installed with some tentacles that can be deployed to inject the nanomachines inside her body to someone else's body, quickly turning them into drones. The purpose of this modification is to turn superheroes into drones. Since they have a much stronger resistance to the nanomachines' control, they need a higher load to quickly become Cybal's drone.
+
+Her mask constantly deploys aphrodisiac gas that keeps Neo Light in constant arousal. This is both for keeping her under control, and to give her  "rewards" whenever Cybal believes it's necessary. Should anyone else put this mask on and breathe its gas, they would immediately become addicted to it as the nanomachines quickly go to the brain and start brainwashing it to transform them into the brain of a drone.
+
 <script src="/assets/js/wiki_sidebar.js"></script>
