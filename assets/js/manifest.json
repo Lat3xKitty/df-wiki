@@ -3,12 +3,12 @@
     "name": "DarkFlame Universe - Wiki",
     "icons": [
       {
-        "src": "assets/img/DF_Wiki.webp",
+        "src": "/assets/img/DF_Wiki.webp",
         "type": "image/webp",
         "sizes": "512x512"
       },
       {
-        "src": "assets/img/DF_Wiki-small.webp",
+        "src": "/assets/img/DF_Wiki-small.webp",
         "type": "image/webp",
         "sizes": "256x256"
       }
