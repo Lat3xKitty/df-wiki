@@ -134,7 +134,7 @@ inc_after_footer :
 inc_before_head : 
 inc_after_head : 
 inc_before_meta : 
-inc_after_meta : 
+inc_after_meta : header.html
 inc_before_scripts : 
 inc_after_scripts : 
 inc_before_styles : 

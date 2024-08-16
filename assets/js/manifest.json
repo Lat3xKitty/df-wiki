@@ -1,0 +1,21 @@
+{
+    "short_name": "DarkFlame Wiki",
+    "name": "DarkFlame Universe - Wiki",
+    "icons": [
+      {
+        "src": "/img/DF_Wiki.webp",
+        "type": "image/webp",
+        "sizes": "512x512"
+      },
+      {
+        "src": "assets/img/DF_Wiki-small.webp",
+        "type": "image/webp",
+        "sizes": "256x256"
+      }
+    ],
+    "background_color": "#000",
+    "theme_color": "#000",
+  
+    "description": "DarkFlame Universe Wikipedia, the one stop shop for all your information about the Universe"
+}
+  
