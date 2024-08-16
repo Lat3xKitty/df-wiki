@@ -9,8 +9,8 @@
             {name: "After work Jacket",     src: "assets/img/char/Kate/Kate_Jacket.png",                subtext: null},
             {name: "At home",               src: "assets/img/char/Kate/Kate_AtHome.png",                subtext: null},
             {name: "Black Date Dress",      src: "assets/img/char/Kate/Kate_Black_Date_Dress.png",      subtext: "Episode 1 - Dress for first date with Chris"},
-            {name: "Casual (Date 2)",       src: "assets/img/char/Kate/Kate_Casual.png",                subtext: "Episode 3 - Second Date with Chris"},
-            {name: "Date 2 Latex Harness",  src: "assets/img/char/Chris/Chris_Date2LatexHarness.png",   subtext: null},
+            {name: "Date 2, Casual",        src: "assets/img/char/Kate/Kate_Casual.png",                subtext: "Episode 3 - Second Date with Chris"},
+            {name: "Date 2 Latex Harness",  src: "assets/img/char/Chris/Kate_Date2Harness.png",   subtext: "Episode 3 - Second Date with Chris"},
 
 
             {name: "Star Knight Light",         src: "assets/img/char/Kate/Star_Knight_Light.png",      subtext: null},

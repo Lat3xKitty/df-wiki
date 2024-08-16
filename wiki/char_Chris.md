@@ -7,15 +7,12 @@
              {name: "Work Attire",           src: "assets/img/char/Chris/Chris_Work.png",               subtext: null},
              {name: "White Date Dress",      src: "assets/img/char/Chris/Chris_WhiteDateDress.png",     subtext: "Episode 1 - Dress for first date with Kate" },
              {name: "Date 2 Latex outfit",   src: "assets/img/char/Chris/Chris_Date2LatexOutfit.png",   subtext: null},
-             {name: "Date 2 Latex Harness",  src: "assets/img/char/Chris/Chris_Date2LatexHarness.png",  subtext: null},
+             {name: "Date 2 Harness",        src: "assets/img/char/Chris/Chris_Date2Harness.png",       subtext: null},
 
-             {name: "Sun Soldier Sol",      src: "assets/img/char/Chris/Sun_Soldier_Sol.png",      subtext: null},
+             {name: "Sun Soldier Sol",      src: "assets/img/char/Chris/Sun_Soldier_Sol.png",       subtext: null},
              {name: "Slave Maiden",         src: "assets/img/char/Chris/Chris_Slave_Maiden.png",    subtext: null},
         ],
         factlist: [
-            // {title: "Alternative Names (Chris)", value: "..."},
-            // {title: "Alternative Names (Sol)",  value: "..."},
-            // {title: "Banana", style: "dividor" },
             {title: "Age", value: "36" },
             {title: "Job", value: "Vice-President of an University"}
         ]
