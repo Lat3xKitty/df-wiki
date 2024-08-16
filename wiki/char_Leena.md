@@ -32,8 +32,13 @@ This influence, as explained before, can turn weak-minded or submissive people i
 If someone were to start thinking about Leena or start imagining her doing something, and they don't stop, the imaginative Leena will gain sentience and start acting as if they were the real Leena, slowly guiding them to her or to seek out other slaves in order to be captured and turned into slaves themselves. Leena herself is unaware of what these projections do inside the minds of other people, but all of them want the same objective, they want the person to become her slave.
 
 This influence can't really turn anyone into Leena's slave, but can heavily guide them into a situation where they might get corrupted. And since Leena herself has "convinced" the person who is imagining her, the whole process of turning them into a slave is easier.
+
+## Relationship with Cybal
+Discussed within Cybal's ending card of Episode 5 of the series, Cybal was one of the people who had joined the Darkness and defeated Leena's own planet forcing her to join the Darkness alliance. This made Cybal think lowly of Leena, leading her to constantly annoy her about it, up to the point where Leena wishes she could kill Cybal very painfully. The stealing of Light and converting her into NEO L1GHT, was another step for taking away something which was once Leena's away from her. 
+
 ---
 
+## Design
 The original design behind Leena was based upon a Character which DarkFlame had previously used in Phantasy star Online. [^1] [^2]
 
 

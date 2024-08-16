@@ -1,5 +1,5 @@
 # CYB4L - 2.0 "Cybal"
-The result of hours and hours of»research on how to enhance her previous 1.0 model. Cybal is a robot from a very far away planet, designed and manufactured for the sole purpose of conquering planets that have any sort of civilized life form.
+The result of hours and hours of research on how to enhance her previous 1.0 model. Cybal is a robot from a very far away planet, designed and manufactured for the sole purpose of conquering planets that have any sort of civilized life form.
 
 She has been programmed to easily analyze the brainwaves of any brain and find the easiest way to break its mind, and then gain control over it via brainwashing. After she has analyzed the common brain wavelength, she can easily create machines that do the job for her, which is turning the rest of the civilized individuals into her drones.
 

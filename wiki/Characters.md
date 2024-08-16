@@ -62,7 +62,7 @@
   </p>
   <p>
     <span data-story="TLITD">
-      <a href="https://wiki.darkflameuniverse.com/char_Chris">Chris</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Chris">Chris / Sol</a>
     </span>
   </p>
   <p>
@@ -149,7 +149,7 @@
   </p>
   <p>
     <span data-story="TLITD">
-      <a href="https://wiki.darkflameuniverse.com/char_Kate">Kate</a>
+      <a href="https://wiki.darkflameuniverse.com/char_Kate">Kate / Light</a>
     </span>
   </p>
   <p>
