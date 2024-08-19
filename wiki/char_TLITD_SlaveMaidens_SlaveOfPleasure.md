@@ -1,12 +1,12 @@
-# Slaves of Pleasure & Slave Maidens
+# Slave Maidens & Slaves of Pleasure
 
 <script>
     const wiki_sidebar = {
         title: "Dr Von Der Dage",
         pictures: [
-            {name: "Slave Maiden + Slave of Pleasure",  src: "assets/img/char/Slaves_TLITD/SlaveMaiden_SlaveofPleasure.png",    subtext: null},
+            {name: "Slave Maiden + Slave of Pleasure",  src: "assets/img/char/TLITD_Slaves/SlaveMaiden_SlaveofPleasure.png",    subtext: null},
             {name: "Chris, Latex Maiden",               src: "assets/img/char/Chris/Chris_Slave_Maiden.png",                    subtext: "Chris' Outfit after becoming a Latex Maiden"},
-            {name: "First Wave of Slaves",              src: "assets/img/char/Slaves_TLITD/FirstWaveofSlaves.png",              subtext: "Sample of the first Wave of Slaves"}
+            {name: "First Wave",              src: "assets/img/char/TLITD_Slaves/FirstWaveofSlaves.png",              subtext: "Sample of the first Wave of Slaves"}
         ],
         factlist: [
         ]

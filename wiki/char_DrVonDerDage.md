@@ -4,7 +4,9 @@
     const wiki_sidebar = {
         title: "Dr Von Der Dage",
         pictures: [
-            {name: "Lab Coat", src: "assets/img/char/VonDerDage/DrVonDerDage_LabCoat.png", subtext: null}
+            {name: "Lab Coat",              src: "assets/img/char/VonDerDage/DrVonDerDage_LabCoat.png",         subtext: null},
+
+            {name: "Direct Control Suit",   src: "assets/img/char/VonDerDage/DrVonDerDage_DirectControl.png"    subtext: "Episode 6"}
         ],
         factlist: [
             {title: "Age", value: "26" },

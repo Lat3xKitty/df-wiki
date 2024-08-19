@@ -298,6 +298,11 @@
     </span>
   </p>
   <p>
+    <span data-story="TLITD">
+      <a href="https://wiki.darkflameuniverse.com/char_SlaveMaidens_SlaveOfPleasure">Slaves Maidens & Slaves of Pleasure</a>
+    </span>
+  </p>
+  <p>
     <span data-story="MTF">
       <a href="https://wiki.darkflameuniverse.com/char_Solace">Solace</a>
     </span>
