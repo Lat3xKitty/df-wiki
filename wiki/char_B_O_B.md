@@ -1,4 +1,4 @@
-## B.O.B. - Best of Bots
+# B.O.B. - Best of Bots
 
 <script>
     const wiki_sidebar = {
