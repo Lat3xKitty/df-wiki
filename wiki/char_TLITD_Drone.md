@@ -1,10 +1,10 @@
 # Sex Drones - Cybal's Drones
-
+<!-- Not in Characters as a bit too generic so far -->
 <script>
     const wiki_sidebar = {
-        title: "Unknown Villian",
+        title: "Cybal's Drones",
         pictures: [
-            {name: "First Slave",    src: "assets/img/char/TLITD_Drones/First_Slave.png",           subtext:null },
+            {name: "First Drone",    src: "assets/img/char/TLITD_Drones/First_Drone.png",           subtext:null },
 
             {name: "First Wave",     src: "assets/img/char/TLITD_Drones/FirstWaveofDrones.png",     subtext: "Sample of the first Wave of Drones"},
         ],

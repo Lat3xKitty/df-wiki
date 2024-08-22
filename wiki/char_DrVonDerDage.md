@@ -6,7 +6,7 @@
         pictures: [
             {name: "Lab Coat",              src: "assets/img/char/VonDerDage/DrVonDerDage_LabCoat.png",         subtext: null},
 
-            {name: "Direct Control Suit",   src: "assets/img/char/VonDerDage/DrVonDerDage_DirectControl.png"    subtext: "Episode 6"}
+            {name: "Direct Control Suit",   src: "assets/img/char/VonDerDage/DrVonDerDage_DirectControl.png",    subtext: "Episode 6"}
         ],
         factlist: [
             {title: "Age", value: "26" },
@@ -23,15 +23,6 @@ At the age of 20, she started constructing robots designed to kidnap people whic
 
 After a couple months of experimenting, Von Der Dage found out that she was about to run out of funds for her experiments and research. Right after that, for better or for worse, Rim contacted her to hire her for her "Superhero Program". Von Der Dage was furious and enraged, she always hated superheroes for their "moral" and "good intentions". She accepted anyway, because she didn't have money for anything, not even for food. Having signed the contract, Von Der Dage had to stop experimenting with people, and use her genius mind to design and manufacture technology for Rim's company, in order to help her and her superheroes solve their "superproblems".
 
-## B.O.B. - Best of Bots
-Actually, BOB was a mistake. An error in Von Der Dage's calculations that actually gave birth to a sentient AI. This makes Von Der Dage extremely furious, because her failure actually created something marvellous.
-
-BOB's mere presence always makes Von Der Dage angry. But despite being annoying Von Der Dage has grown attached to BOB, so much that she doesn't keep it in a cage anymore, and allows it to roam around the facility.
-
-Even if BOB is an ever-learning AI, it is actually pretty dumb and naive. It would believe almost anything you tell it, especially anything that its Creator, Von Der Dage, says.
-
-Don't be fooled by BOB's physical appearance, for Von Der Dage has countless different frames for BOB to use. From this tiny and cute drone, to the big and menacing mechs that Von Der Dage can transfer its consciousness into.
-
-BOB aspires to one day be as smart as Von Der Dage, although it also knows, that would annoy her even more, so BOB is slowing itself down, so as to not upset her.
+Doctor Von Der Dage is the creator of B.O.B. (Best of Bots) who was a complete mistake. Some errors in her Calculations caused her to accidentally create a sentient AI. While B.O.B. is annoying, due to his dumb and naive brain, she's slowly started to grow attached to B.O.B.
 
 <script src="/assets/js/wiki_sidebar.js"></script>

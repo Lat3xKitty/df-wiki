@@ -34,6 +34,13 @@
     </span>
   </p>
 
+  <h3 id="B">B</h3>
+  <p>
+    <span data-story="TLITD">
+      <a href="https://wiki.darkflameuniverse.com/char_B_O_B">B.O.B. (Best of Bots)</a>
+    </span>
+  </p>
+
   <h3 id="C">C</h3>
   <p>
     <span data-story="MTF,Monthly">
@@ -87,6 +94,7 @@
       <a href="https://wiki.darkflameuniverse.com/char_DarknessLords">Darkness Lords</a>
     </span>
   </p>
+  <!-- Cybal Drones here -->
   <p>
     <span data-story="TLITD,Monthly">
       <a href="https://wiki.darkflameuniverse.com/char_DrVonDerDage">Doctor Von Der Dage</a>
@@ -299,7 +307,7 @@
   </p>
   <p>
     <span data-story="TLITD">
-      <a href="https://wiki.darkflameuniverse.com/char_SlaveMaidens_SlaveOfPleasure">Slaves Maidens & Slaves of Pleasure</a>
+      <a href="https://wiki.darkflameuniverse.com/char_TLITD_SlaveMaidens_SlaveOfPleasure">Slaves Maidens & Slaves of Pleasure</a>
     </span>
   </p>
   <p>

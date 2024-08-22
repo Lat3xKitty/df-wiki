@@ -16,11 +16,13 @@
             {name: "Star Knight Light",         src: "assets/img/char/Kate/Star_Knight_Light.png",      subtext: null},
             {name: "Star Knight Light + Cuffs", src: "assets/img/char/Kate/Star_Knight_Light_cuffs.png", subtext: "Episode 1 - The more \"Leena\" focused outfit for Light. Fingerless Gloves, Glossy Nails, Heels and a Pony Tail"},
             {name: "Slave Maiden Darkness",     src: "assets/img/char/Kate/Slave_Maiden_Darkness.png",  subtext: "Episode 1 - Light is corrupted by Leena's Binders"},
-            {name: "Night Star Light",          src: "assets/img/char/Kate/Night_Star_Light.png",       subtext: "Episode 3 - Light absorbs Chris/Sol's Corruption"}
+            {name: "Star Knight Light - Bondage", src: "assets/img/char/Kate/Light_Bondage.png",        subtext: "Episode 3 - Light's outfit while being Corrupted by Chris"},
+            {name: "Night Star Light",          src: "assets/img/char/Kate/Night_Star_Light.png",       subtext: "Episode 3 - Light absorbs Chris/Sol's Corruption"},
+            {name: "NEO L1GHT",                 src: "assets/img/char/Kate/LIGHT_NEO.png",              subtext: "Episode 5 - Light becomes a Drone"}
         ],
         factlist: [
             {title: "Alternative Names (Kate)", value: "Katie"},
-            {title: "Alternative Names (Light)", value: "Blue Clown, ..."},
+            {title: "Alternative Names (Light)", value: "Blue Clown"},
             // {title: "Banana", style: "dividor" },
             {title: "Age", value: "32" },
             {title: "Job", value: "Waitress at Miller"}
